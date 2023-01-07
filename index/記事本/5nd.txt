@@ -1,0 +1,45 @@
+﻿<html>
+<head>
+<title>義式香草蒸鱸魚</title>
+</head>
+<body>
+<a href="index.html">美食介紹(首頁)</a>
+<h2><font face=微軟正黑體 size="5">義式香草蒸鱸魚</font></h2><p>
+<img src="004.jpg" alt="義式香草蒸鱸魚" width="200"height"300"><p>
+<font face=微軟正黑體 size="4"> 食材:鱸魚片1片(250g)、小蕃茄(5顆)、蒜頭(2瓣)、香菜(1根)、綜合義大利香草(1/8茶匙)、橄欖油(1大匙)、蛤蜊</font><p>
+<font face=微軟正黑體 size="4"> 調味:白酒或米酒(1大匙)、鹽(1/4茶匙)、黑胡椒粒(1/12茶匙)</font><p>
+<font face=微軟正黑體 size="4"> 一:準備食材，清理與清洗之。(蛤蜊事先吐沙完成)</font><p>
+<font face=微軟正黑體 size="4"> 二:蒜頭與香菜切末， 小蕃茄切圓片，鱸魚片可劃2-3刀或不劃刀都可，放於蒸盤上。</font><p>
+<font face=微軟正黑體 size="4"> 三:魚盤擺入蛤蜊與小蕃茄，再放入蒜末、香根與[調味料]。</font><p>
+<font face=微軟正黑體 size="4"> 四:起鍋，放入水(約1200cc)，墊腳架，（或用蒸籠），開中大火煮滾，再放入魚盤，蓋鍋蓋。</font><p>
+<font face=微軟正黑體 size="4"> 五:蒸10分鐘，完成後關火。</font><p>
+<font face=微軟正黑體 size="4"> 六:開蓋取出，再淋上橄欖油，擺上香菜葉即完成。</font><p>
+<font face=微軟正黑體 size="4"> 七:美味上桌。</font><p>
+<font face=微軟正黑體 size="4" color="＃8B0000"> "以上結束後就可以享用一道美味的義式香草蒸鱸魚囉"!!!</font><p>
+
+<img src="001.jpg" alt="西班牙海鮮烘蛋介紹" width="250"height"300">
+第一道<a href="2nd.html">西班牙海鮮烘蛋介紹</a>
+
+<img src="002.jpg" alt="燻肉明蝦鑲干貝奶油芥茉醬佐燉蔬菜" width="200"height"300">
+第二道<a href="3nd.html">燻肉明蝦鑲干貝奶油芥茉醬佐燉蔬菜</a>
+
+<img src="003.jpg" alt="西式香草青醬佐牛排" width="250"height"300">
+第三道<a href="4nd.html">西式香草青醬佐牛排</a><p>
+
+
+<audio controls>
+<source src="horse.ogg" type="audio/ogg">
+<source src="001.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<video width="320" height="240" controls>
+<source src="002.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+</body>
+</html>

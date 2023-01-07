@@ -1,0 +1,48 @@
+﻿<html>
+<head>
+<title>西班牙海鮮烘蛋介紹</title>
+</head>
+<body>
+<a href="index.html">美食介紹(首頁)</a>
+<h2><font face=微軟正黑體 size="5">西班牙海鮮烘蛋介紹</font></h2><p>
+<img src="001.jpg" alt="西班牙海鮮烘蛋介紹" width="200"height"300"><p>
+<font face=微軟正黑體 size="4"> 食材:海鮮類"小捲、蝦仁"(適量)、雞蛋(3顆)、奶油(少許)、蔬菜、杏鮑菇、節瓜、番茄根莖類(適量)、牛奶(少許)、蒜片(少許)</font><p>
+<font face=微軟正黑體 size="4"> 調味:黑胡椒(適量)、九層塔(適量)</font><p>
+<font face=微軟正黑體 size="4"> 一:備料：將食材都準備好，看著繽紛的食材用好心情來進行料理吧！！(同時預熱烤箱180度)。</font><p>
+<font face=微軟正黑體 size="4"> 二:熱鍋，將奶油投入，加入蒜片爆香。</font><p>
+<font face=微軟正黑體 size="4"> 三:放入海鮮類拌炒，釋出高湯就是海鮮烘蛋的好吃秘訣～</font><p>
+<font face=微軟正黑體 size="4"> 四:再加入蔬菜類，這時已經看起來色香味俱全了呢!</font><p>
+<font face=微軟正黑體 size="4"> 五:等食材都拌炒互相培養出感情後，就可以準備蛋液了(通常是3顆蛋+50ml的牛奶)。</font><p>
+<font face=微軟正黑體 size="4"> 六:加入蛋液後通常我會稍等一下&轉小火讓蛋液充分與食材混和。</font><p>
+<font face=微軟正黑體 size="4"> 七:也可以調整一下蔬菜的配置，讓賣相更佳，看起來更可口。</font><p>
+<font face=微軟正黑體 size="4"> 八:丟入烤箱約20分鐘後，就完成美味又簡單的烘蛋料理啦～</font><p>
+<font face=微軟正黑體 size="4" color="＃8B0000"> "以上結束後就可以享用一道美味的西班牙海鮮烘蛋囉"!!!</font><p>
+
+
+<img src="002.jpg" alt="燻肉明蝦鑲干貝奶油芥茉醬佐燉蔬菜" width="200"height"300">
+第二道<a href="3nd.html">燻肉明蝦鑲干貝奶油芥茉醬佐燉蔬菜</a>
+
+<img src="003.jpg" alt="西式香草青醬佐牛排" width="250"height"300">
+第三道<a href="4nd.html">西式香草青醬佐牛排</a><p>
+
+<img src="004.jpg" alt="義式香草蒸鱸魚" width="250"height"300">
+第四道<a href="5nd.html">義式香草蒸鱸魚</a><p>
+
+
+<audio controls>
+<source src="horse.ogg" type="audio/ogg">
+<source src="001.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+<video width="320" height="240" controls>
+<source src="002.mp4" type="video/mp4">
+<source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+</body>
+</html>
+
